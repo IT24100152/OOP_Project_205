@@ -1,7 +1,0 @@
-10,Rosheni,fff,3
-11,Tom,hndDd,3
-12,rrr,rrrr,5
-13,few,wrw,4
-14,Rrrrr,wgg,4
-15,ttt,ttttttt,3
-16,rrrr,gg,3
